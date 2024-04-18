@@ -10,6 +10,8 @@
 - Test ID : test12
 - Test PW : test001122
 
+- [백엔드 저장소](https://github.com/6-SSGSAKK/ssgsakk-be)
+
 <br />
 
 # 목차
